@@ -1,6 +1,6 @@
 # Laravel CRUD with One to Many Relation
 
-Hi Guys, In this example i will show you how to do CRUD in laravel 9 and Relate two tables data with foriegn key.
+Hi Viewers, In this example you can see the source code of CRUD with One to Many Relation in Laravel 9
 
 ## Getting Started
 
